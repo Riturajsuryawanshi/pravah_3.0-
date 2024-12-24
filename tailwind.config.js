@@ -6,6 +6,7 @@ module.exports = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  
   theme: {
     fontFamily: {
       satoshi: ['Satoshi', 'sans-serif'],
@@ -18,7 +19,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        
+
         
        
         primary: '#792938',
