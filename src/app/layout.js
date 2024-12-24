@@ -12,6 +12,7 @@ export const metadata = {
   description: "An Legal Records Management System",
 };
 
+
 export default function RootLayout({ children }) {
 
   return (

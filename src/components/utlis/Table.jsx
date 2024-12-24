@@ -21,6 +21,7 @@ export default function Table() {
                 console.error(errorData.error);
                 return;
             }
+            
             const data = response.data;
          console.log(data)
             setDocuments(data);

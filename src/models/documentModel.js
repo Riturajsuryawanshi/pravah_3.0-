@@ -8,6 +8,7 @@ const documentSchema = new Schema({
         required: true,
         unique: true
     },
+    
     tokenId: {
         type: String,
         required: true

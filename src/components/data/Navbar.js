@@ -10,6 +10,7 @@ export const NavbarItems =[
         href: 'features',
        
     },
+    
     {
         name: 'Legal Records',  
         href: '/dashBoard/legalRecords',

@@ -11,6 +11,7 @@ const contactSchema = new mongoose.Schema({
     required: [true, "Please provide a last name!"],
  
     },
+    
     email: {
         type: String,
         required: [true, "Please provide an email!"],

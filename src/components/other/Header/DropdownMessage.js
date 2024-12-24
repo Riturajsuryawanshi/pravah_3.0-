@@ -12,6 +12,7 @@ const DropdownMessage = () => {
 
   const trigger = useRef(null);
   const dropdown = useRef(null);
+  
 
   // close on click outside
   useEffect(() => {

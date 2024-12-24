@@ -6,6 +6,7 @@ export const footerNavs = [
                 href: 'about',
                 name: 'About'
             },
+            
             {
                 href: 'contact',
                 name: 'Contact'

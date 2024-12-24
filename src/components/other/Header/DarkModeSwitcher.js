@@ -10,6 +10,7 @@ const DarkModeSwitcher = () => {
           colorMode === 'dark' ? 'bg-black' : 'bg-stroke'
         }`}
       >
+        
         <input
           type="checkbox"
           onChange={() => {

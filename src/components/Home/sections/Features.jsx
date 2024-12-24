@@ -15,6 +15,7 @@ const Features = () => {
     "Access Permissions Management",
     "Security Measures"
   ];
+  
 
   // Array of feature descriptions
   const featureDescriptions = [

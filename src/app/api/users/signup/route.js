@@ -20,6 +20,7 @@ export async function POST(request){
             return NextResponse.json({error: "User with this wallet already exists"}, {status: 400})
         }
 
+        
          //create new user
          const newUser = new User({
             ethreumAddress,
